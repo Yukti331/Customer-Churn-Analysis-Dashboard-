@@ -28,7 +28,8 @@ To explore and visualize telecom customer churn patterns using Power BI, identif
 ---
 
 ## 🖼️ Dashboard Preview
-*Include screenshots here (e.g., Screenshot_1.png, Screenshot_2.png)*
+<img width="1350" height="757" alt="Screenshot 2025-08-04 170623" src="https://github.com/user-attachments/assets/033b3d64-e7b4-4f87-aa41-a72b61cc0b87" />
+
 
 ---
 
@@ -45,6 +46,5 @@ Telco Customer Churn Dataset (from IBM Sample Data)
 
 ---
 
-## 💡 Resume Impact
-This project demonstrates your ability to build insightful, executive-level dashboards using Power BI and AI visuals, even without using ML. Perfect for entry-level data analyst roles.
+
 
